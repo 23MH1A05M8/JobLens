@@ -30,8 +30,6 @@ JobLens brings these workflows into one role-based application, with a shared pl
 
 ### AI-assisted tools
 
-- Fake-job verification combines heuristic checks and URL safety analysis, with optional AI provider integration.
-- Resume matching compares student information with a job description.
 - Job-link generation creates external job-search links from student criteria.
 - The chatbot assists with placement-related questions.
 
