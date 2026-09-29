@@ -4,8 +4,7 @@ JobLens is a campus placement management application with a React frontend, a No
 
 ## Overview
 
-JobLens centralizes campus placement workflows for students and placement coordinators. It provides drive management, eligibility and application tracking, student feedback, notifications, and AI-assisted career and job-verification tools.
-
+JobLens centralizes campus placement workflows for students and placement coordinators. It provides drive management, eligibility and application tracking, student feedback, notifications, and AI-assisted career.
 ## Problem and solution
 
 Placement activities can be spread across spreadsheets, email, and disconnected tools. This makes it harder to track applications, check eligibility, coordinate recruitment rounds, and help students assess external opportunities.
@@ -19,7 +18,7 @@ JobLens brings these workflows into one role-based application, with a shared pl
 - Manage a profile and upload a resume.
 - Browse on-campus and off-campus opportunities, apply to on-campus drives, and follow application and round status.
 - Receive placement notifications and submit or browse company feedback.
-- Use resume-to-job matching, job-link generation, a placement chatbot, and a fake-job verifier.
+- Use  job-link generation, and a placement chatbot.
 
 ### Coordinators
 
